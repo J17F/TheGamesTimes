@@ -7,7 +7,7 @@
 
 ## Autores ✒️
 
-* José Francisco Gómez    - [J17F](https://github.com/J17F)
-* María Fernanda López    - [mflxz](https://github.com/mflxz)
+* José Gómez    - [J17F](https://github.com/J17F)
+* María López    - [mflxz](https://github.com/mflxz)
 * Anibal Arévalo          - [anibalarevalo](https://github.com/anibalarevalo)
 
