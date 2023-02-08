@@ -1,4 +1,4 @@
-# THE-GAMES-TIMES
+# THE GAMES TIMES
 
 # Revista TGT
 
